@@ -1,41 +1,41 @@
 body {
-	background-color:#34495e;
+  background-color:#34495e;
 }
 
 .container {
-	background-color: white;
+  background-color: white;
 }
 
 .px-1 {
-	padding-right: 1rem;
-	padding-left: 1rem;	
+  padding-right: 1rem;
+  padding-left: 1rem;  
 }
 
 .py-1 {
-	padding-top: 1rem;
-	padding-bottom: 1rem;	
+  padding-top: 1rem;
+  padding-bottom: 1rem;  
 }
 
 .container .row {
-	margin: 0;
+  margin: 0;
 }
 
 @media (max-width: 600px) {
-	.text-s-center {
-		text-align: center;
-	}
+  .text-s-center {
+    text-align: center;
+  }
 }
 
 @media (max-width: 992px) {
-	.text-m-left {
-		text-align: left;
-	}
+  .text-m-left {
+    text-align: left;
+  }
 }
 
 @media (min-width: 992px) {
-	.text-lg-right {
-		text-align: right;
-	}
+  .text-lg-right {
+    text-align: right;
+  }
 }
 
 @media (min-width: 600px) {
@@ -43,21 +43,21 @@ body {
 }
 
 .accent {
-	color: #ff9800;
+  color: #ff9800;
 }
 
 a, a:link, a:visited {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .font-special {
-	font-family: 'Dosis', sans-serif;
+  font-family: 'Dosis', sans-serif;
 }
 
 .fa, .fa:link, .fa:visited {
-	color: #212529;
+  color: #212529;
 }
 
 .fa:hover {
-	color: #e45900;
+  color: #e45900;
 }

@@ -1,41 +1,41 @@
 body {
-	background-color:#34495e;
+  background-color:#34495e;
 }
 
 .container {
-	background-color: white;
+  background-color: white;
 }
 
 .bg-offWhite {
-	background-color:#f7f7f7;
+  background-color:#f7f7f7;
 }
 
 @media (max-width: 767px) {
-	.bg-offWhite {
-	background-color:white;
-	}
+  .bg-offWhite {
+  background-color:white;
+  }
 }
 
 .accent {
-	color: #e45900;
+  color: #e45900;
 }
 
 a, a:link, a:visited {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .font-special {
-	font-family: 'Dosis', sans-serif;
+  font-family: 'Dosis', sans-serif;
 }
 
 .fa, .fa:link, .fa:visited {
-	color: #212529;
+  color: #212529;
 }
 
 .fa:hover {
-	color: #e45900;
+  color: #e45900;
 }
 
 img.mx-auto {
-	display: block;
+  display: block;
 }
