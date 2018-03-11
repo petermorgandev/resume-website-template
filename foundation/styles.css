@@ -1,0 +1,49 @@
+body {
+	background-color:#34495e;
+}
+
+.grid-container {
+	background-color: white;
+}
+
+.bg-offWhite {
+	background-color: #f7f7f7;
+}
+
+h2 {
+	text-align: right;
+}
+
+@media (max-width: 639px) {
+	.bg-offWhite {
+		background-color:white;
+	}
+	h2 {
+		text-align: left;
+	}
+}
+
+.accent {
+	color: #e45900;
+}
+
+a, a:link, a:visited {
+	text-decoration: none;
+}
+
+.font-special {
+	font-family: 'Dosis', sans-serif;
+}
+
+.fa, .fa:link, .fa:visited {
+	color: #212529;
+}
+
+.fa:hover {
+	color: #e45900;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
