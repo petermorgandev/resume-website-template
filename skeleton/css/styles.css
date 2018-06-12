@@ -1,7 +1,3 @@
-a, a:link, a:visited {
-  text-decoration: none;
-}
-
 .accent {
   color: #e45900;
 }
@@ -16,11 +12,12 @@ a, a:link, a:visited {
   max-width: 720px;
 }
 
-.fa, .fa:link, .fa:visited {
+a, a:link, a:visited {
   color: #212529;
+  text-decoration: none;
 }
 
-.fa:hover {
+a:hover {
   color: #e45900;
 }
 

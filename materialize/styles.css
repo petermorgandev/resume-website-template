@@ -48,16 +48,13 @@ body {
 
 a, a:link, a:visited {
   text-decoration: none;
+  color: #212529;
+}
+
+a:hover {
+  color: #e45900;
 }
 
 .font-special {
   font-family: 'Dosis', sans-serif;
-}
-
-.fa, .fa:link, .fa:visited {
-  color: #212529;
-}
-
-.fa:hover {
-  color: #e45900;
 }

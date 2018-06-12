@@ -29,6 +29,11 @@ h2 {
 
 a, a:link, a:visited {
   text-decoration: none;
+    color: #212529;
+}
+
+a:hover {
+  color: #e45900;
 }
 
 .font-special {
@@ -36,11 +41,7 @@ a, a:link, a:visited {
 }
 
 .fa, .fa:link, .fa:visited {
-  color: #212529;
-}
 
-.fa:hover {
-  color: #e45900;
 }
 
 img {
