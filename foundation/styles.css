@@ -29,7 +29,7 @@ h2 {
 
 a, a:link, a:visited {
   text-decoration: none;
-    color: #212529;
+  color: #212529;
 }
 
 a:hover {
@@ -40,12 +40,8 @@ a:hover {
   font-family: 'Dosis', sans-serif;
 }
 
-.fa, .fa:link, .fa:visited {
-
-}
-
 img {
   display: block;
   margin: 0 auto;
-	border-radius: 50%;
+  border-radius: 50%;
 }
