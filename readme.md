@@ -1,7 +1,7 @@
 # resume-website-template
 This is a responsive resume template built using multiple CSS frameworks.
 
-## Getting started
+## Getting Started
 1. Download the repository (or the folder for the framework you intend to use)
 2. Edit index.html
 
